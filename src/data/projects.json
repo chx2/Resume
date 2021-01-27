@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Portfolio",
+    "url": "https://chrish.me",
+    "url_short": "chrish.me",
+    "description": "Created & maintaining personal platform listing personal experience including personal blog and all Laravel projects I maintain, all managed within a Laravel Forge instance."
+  },
+  {
+    "name": "Resume",
+    "url": "https://cv.chrish.me",
+    "url_short": "cv.chrish.me",
+    "description": "Created & maintaining web-based version of resume/cv responsive in desktop, mobile, and print resolutions."
+  },
+  {
+    "name": "Budget.io",
+    "url": "https://github.com/chx2/Budget.io",
+    "url_short": "https://github.com/chx2/Budget.io",
+    "description": "Created & maintaining open-source application for managing personal budgets built in Laravel using Inertia.js integrations with Vue.js."
+  },
+  {
+    "name": "Parse-Steam-URL",
+    "url": "https://github.com/chx2/Parse-Steam-URL-Class",
+    "url_short": "https://github.com/chx2/Parse-Steam-URL-Class",
+    "description": "Created & maintaining a lightweight PHP helper class for converting between different ID formats on the Steam desktop platform."
+  }
+]
