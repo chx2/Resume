@@ -1,7 +1,7 @@
 <template>
   <div class="w-full md:w-4/5 m-auto">
     <div class="block lg:flex lg:mt-8 bg-white rounded print:rounded-none print:shadow-none shadow-2xl lg:mb-8">
-      <div class="w-full lg:w-1/4 bg-white md:bg-gray-600 shadow-2xl">
+      <div class="w-full lg:w-1/4 bg-white md:bg-gray-700 shadow-2xl">
         <div class="h-52 hidden md:block">
           <img class="w-full h-full max-w-lg m-auto shadow-2xl" src="./assets/me.png" alt="Personal Thumbnail">
         </div>
@@ -27,10 +27,8 @@
           </div>
           <objective></objective>
           <hr class="w-11/12 mt-4 mb-4 ml-auto mr-auto border border-black">
-          <div class="page-break">
-            <experience></experience>
-            <hr class="w-11/12 mt-4 mb-4 ml-auto mr-auto border border-black">
-          </div>
+          <experience></experience>
+          <hr class="w-11/12 mt-4 mb-4 ml-auto mr-auto border border-black">
           <education></education>
           <hr class="w-11/12 mt-4 mb-4 ml-auto mr-auto border border-black">
           <projects></projects>
