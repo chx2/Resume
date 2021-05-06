@@ -1,17 +1,6 @@
 [
   {
     "name": "Full-Stack Developer",
-    "org": "The Great Escape Rooms",
-    "start": "2021",
-    "end": "Current",
-    "tasks": [
-      "Converting existing full-stack Laravel application into maintainable packages",
-      "Refactoring existing project tests and MVC components for better support",
-      "Rewriting existing Vue applications into Inertia.js for better Laravel integrations"
-    ]
-  },
-  {
-    "name": "Full-Stack Developer",
     "org": "IMT Insurance",
     "start": "2020",
     "end": "Current",

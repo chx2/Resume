@@ -2,7 +2,7 @@
   {
     "name": "Budget.io",
     "url": "https://github.com/chx2/Budget.io",
-    "url_short": "https://github.com/chx2/Budget.io",
+    "url_short": "github.com/chx2/Budget.io",
     "skills": [
       "Vue",
       "Inertia.js",
@@ -11,9 +11,18 @@
     "description": "Created & maintaining open-source application for managing personal budgets built in Laravel using Inertia.js integrations with Vue.js."
   },
   {
+    "name": "ApeHaven",
+    "url": "https://www.apehaven.com",
+    "url_short": "apehaven.com",
+    "skills": [
+      "Laravel"
+    ],
+    "description": "Contributing to the ApeHaven project, a website/app focused around $APES, a frictionless yield generating charity token that benefits sanctuaries for Great Apes."
+  },
+  {
     "name": "Tipoff",
     "url": "https://github.com/tipoff",
-    "url_short": "https://github.com/tipoff",
+    "url_short": "github.com/tipoff",
     "skills": [
       "Laravel",
       "Inertia.js",
