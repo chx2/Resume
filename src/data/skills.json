@@ -6,7 +6,8 @@
       "CSS3/SASS",
       "JavaScript/ES6",
       "PHP",
-      "Perl"
+      "Perl",
+      "Python"
     ]
   },
   {
@@ -15,7 +16,8 @@
       "MySQL/MariaDB",
       "SQL Server",
       "PostgreSQL",
-      "MongoDB"
+      "MongoDB",
+      "Firebase"
     ]
   },
   {
@@ -29,6 +31,7 @@
       "Bulma",
       "Laravel",
       "Symfony",
+      "Django",
       "Node/Express"
     ]
   },
